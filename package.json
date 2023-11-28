@@ -1,0 +1,12 @@
+{
+  "name": "dive-in-ts",
+  "version": "1.0.0",
+  "description": "深入理解TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
